@@ -13,6 +13,6 @@ Objetivo Profissional
 Construir uma base sólida na área de desenvolvimento de software, contribuir com projetos reais e crescer continuamente como profissional de tecnologia.
 
 Estatísticas
-<p> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact"> </p>
+<p> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AssuncaoWorkspace&show_icons=true"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AssuncaoWorkspace&layout=compact"> </p>
 Contato
 <p align="left"> <a href="https://www.linkedin.com/in/gabriel-assunção-8842953b3"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:assuncaoworkspace@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
