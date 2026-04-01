@@ -11,13 +11,6 @@ Objetivo
 
 Iniciar minha trajetória profissional em tecnologia, adquirindo experiência prática, contribuindo com projetos reais e evoluindo continuamente como desenvolvedor.
 
-Estatísticas
-
-Contato
-
-LinkedIn: seu-link-aqui
-Email: seu-email-aqui
-
  <div style="display: inline_block">
   <br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
