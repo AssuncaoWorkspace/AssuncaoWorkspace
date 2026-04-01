@@ -1,33 +1,18 @@
 Gabriel Assunção
 
-Estudante de Análise e Desenvolvimento de Sistemas com interesse em desenvolvimento de software e evolução contínua na área de tecnologia. Buscando construir uma base sólida por meio de estudos constantes e projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas, em início de carreira na área de tecnologia, com foco em aprendizado contínuo, fundamentos sólidos e desenvolvimento de projetos práticos.
 
-Sobre mim
+Sobre
 
-Início de carreira na área de TI, focado em desenvolver lógica, organização de projetos e boas práticas de programação.
-Atualmente dedicado ao aprendizado contínuo e à criação de projetos para fortalecer fundamentos técnicos.
+Atualmente dedicado ao estudo de lógica de programação, desenvolvimento web, banco de dados e versionamento de código. Busco minha primeira oportunidade na área de tecnologia para adquirir experiência prática e evoluir profissionalmente.
 
-Objetivo
+Tecnologias e Ferramentas em Estudo
+<p align="left"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> </p>
+Objetivo Profissional
 
-Iniciar minha trajetória profissional em tecnologia, adquirindo experiência prática, contribuindo com projetos reais e evoluindo continuamente como desenvolvedor.
+Construir uma base sólida na área de desenvolvimento de software, contribuir com projetos reais e crescer continuamente como profissional de tecnologia.
 
- <div style="display: inline_block">
-  <br>
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"&gt;
-  <img align="center" alt="Gabriel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"&gt;
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"&gt;
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"&gt;
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"&gt;
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"&gt;
-  <img align="center" alt="Gabriel-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg"&gt;
-   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"&gt;
-  <img align="center" alt="Gabriel-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg"&gt;
-  </div>
- 
-  ##
-
-   <div>
-  <a href="www.linkedin.com/in/gabriel-assunção-8842953b3&quot; target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&quot; target="_blank"></a>
-    <a href = "assuncaoworkspace@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&quot; target="_blank"></a>
- 
-</div>
+Estatísticas
+<p> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true"> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact"> </p>
+Contato
+<p align="left"> <a href="https://www.linkedin.com/in/gabriel-assunção-8842953b3"> <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:assuncaoworkspace@gmail.com"> <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
