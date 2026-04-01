@@ -23,5 +23,3 @@ Contato
     <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
-Agora fica preto, discreto e bem profissional. Se quiser, posso deixar versão com ícones sem badge (ultra minimalista).
