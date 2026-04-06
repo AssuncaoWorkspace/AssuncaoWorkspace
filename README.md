@@ -8,6 +8,7 @@ Atualmente dedicado ao estudo de lógica de programação, desenvolvimento web, 
 
 **Tecnologias e Ferramentas**
 <p> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> <img height="26" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> </p>
+
 **Objetivo**
 
 Construir uma base sólida em desenvolvimento de software, contribuir com projetos reais e crescer continuamente na área de tecnologia.
