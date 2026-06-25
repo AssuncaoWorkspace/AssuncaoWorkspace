@@ -1,12 +1,5 @@
 # Gabriel Assunção 👨‍💻
 
-<div align="center">
-  <img
-    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=80"
-    alt="Background"
-    style="width: 100%; max-width: 900px; border-radius: 16px;"
-  />
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Estudante-Dev%20Full%20Stack-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
@@ -81,11 +74,11 @@ Construir uma base sólida em desenvolvimento de software, contribuir com projet
 <div align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=AssuncaoWorkspace&show_icons=true&theme=transparent"
   />
   <img
     height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=transparent"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AssuncaoWorkspace&theme=transparent"
   />
 </div>
 
