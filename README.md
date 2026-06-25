@@ -60,16 +60,12 @@ Construir uma base sólida em desenvolvimento de software, contribuir com projet
 
 ## Projetos
 
-> Repositórios e projetos reais podem ser adicionados aqui conforme forem ficando prontos.
-
 - **Em breve:** portfólio com projetos demonstrando evolução (Web + Banco de Dados + Git/GitHub)
 - **Em breve:** estudos e mini-projetos com boas práticas
 
 ---
 
 ## GitHub (stats)
-
-> Para preencher automaticamente com seus dados, substitua `SEU_USUARIO_AQUI` pelo seu usuário do GitHub.
 
 <div align="center">
   <img
