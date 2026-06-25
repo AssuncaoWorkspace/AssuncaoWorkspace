@@ -16,7 +16,7 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas em início de carreira na área de tecnologia, com foco em **aprendizado contínuo** e **desenvolvimento de projetos práticos**.
 
-Atualmente dedicado ao estudo de **lógica de programação**, **desenvolvimento web**, **banco de dados** e **versionamento de código**.
+Atualmente dedicado ao estudo de **lógica de programação**, **desenvolvimento web**, **backend (APIs, autenticação e banco de dados)**, **banco de dados** e **versionamento de código**.
 
 ---
 
