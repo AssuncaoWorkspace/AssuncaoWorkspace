@@ -139,15 +139,6 @@ Formação voltada para desenvolvimento de software, lógica de programação, b
 - Deploy, CI/CD e infraestrutura
 - Desenvolvimento e validação de produtos SaaS
 
-<br>
-
-## GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AssuncaoWorkspace&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&icon_color=FF5A36&title_color=FF5A36" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=AssuncaoWorkspace&theme=transparent&hide_border=true&ring=FF5A36&fire=FF5A36&currStreakLabel=FF5A36" />
-
 </div>
 
 <br>
