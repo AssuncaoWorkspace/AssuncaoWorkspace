@@ -1,93 +1,179 @@
-# Gabriel Assunção 👨‍💻
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Estudante-Dev%20Full%20Stack-0A0A0A?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Aprendizado-Contínuo-0A0A0A?style=for-the-badge&logo=rocket&logoColor=white" />
-</p>
-
 <div align="center">
-  <h3>Construindo uma base sólida em desenvolvimento de software 🚀</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=FF5A36&center=true&vCenter=true&width=700&lines=Gabriel+Assun%C3%A7%C3%A3o;Backend+%7C+APIs+%7C+Sistemas;Desenvolvendo+software+na+pr%C3%A1tica;Transformando+problemas+em+solu%C3%A7%C3%B5es." alt="Typing animation" />
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-AssuncaoWorkspace-0D1117?style=for-the-badge&logo=github&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Assunção-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
+[![Email](https://img.shields.io/badge/Email-Contato-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=AssuncaoWorkspace&style=flat-square&color=0D1117&label=PROFILE+VIEWS" />
+
 </div>
 
+<br>
+
+## `whoami`
+
+Estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **backend, APIs, bancos de dados e arquitetura de sistemas**.
+
+Atuo como **Jovem Aprendiz na G4F**, por meio do **Senac**, enquanto construo experiência profissional real e aprofundo minha formação técnica em paralelo a projetos próprios.
+
+Minha trajetória é construída na prática — sistemas reais, APIs, bancos de dados, regras de negócio e problemas que precisam ser resolvidos de verdade, não só estudados. Meu interesse não é aprender uma tecnologia isoladamente, e sim entender **como as partes de um sistema se conectam** e **como transformar uma necessidade em uma solução funcional**.
+
+<br>
+
+## Áreas de foco
+
+| Área | O que envolve |
+|---|---|
+| **Backend** | APIs REST, regras de negócio, autenticação e segurança |
+| **Database** | Modelagem, SQL, relacionamentos e integridade de dados |
+| **Systems** | Arquitetura, integrações e desenho de processos |
+| **Product** | SaaS, problemas reais de negócio, soluções funcionais |
+
+Frontend faz parte da minha base e dos projetos que desenvolvo, mas minha maior identificação técnica está na camada de **dados, APIs, lógica e regras de negócio**.
+
+<br>
+
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="25%">
+
+**Backend**
+
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
+
+`PHP` `Laravel` `REST APIs`
+
+</td>
+<td valign="top" width="25%">
+
+**Database**
+
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+`MySQL` `PostgreSQL` `SQL`
+
+</td>
+<td valign="top" width="25%">
+
+**Frontend**
+
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
+`JavaScript` `React` `Vue.js`
+
+</td>
+<td valign="top" width="25%">
+
+**Tools & Infra**
+
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+`Git` `GitHub` `Docker`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Projetos em destaque
+
+### MecSync — SaaS de gestão para oficinas mecânicas
+
+Plataforma própria construída para tornar a gestão de uma oficina mecânica mais organizada e profissional, cobrindo clientes, veículos, ordens de serviço, agenda, indicadores e administração.
+
+Mais do que um exercício técnico, o MecSync é onde experimento o ciclo completo de um **produto digital**: identificação do problema, definição de funcionalidades, arquitetura, prospecção de clientes e evolução contínua do sistema — incluindo auditoria de código, organização de componentes e reforço de boas práticas de segurança.
+
+`React` `Supabase` `SaaS` `Produto`
+
+**[→ Ver repositório](https://github.com/AssuncaoWorkspace)**
+
 ---
 
-## Sobre
+### SDA — Sistema de Direitos Autorais
 
-Estudante de Análise e Desenvolvimento de Sistemas em início de carreira na área de tecnologia, com foco em **aprendizado contínuo** e **desenvolvimento de projetos práticos**.
+Sistema desenvolvido no contexto do Senac para gestão de direitos autorais e dos processos relacionados à administração de obras: autores, obras, contratos, vendas, royalties, pagamentos, saldos retidos, apurações, documentos, usuários/permissões, notificações e logs.
 
-Atualmente dedicado ao estudo de **lógica de programação**, **desenvolvimento web**, **backend (APIs, autenticação e banco de dados)**, **banco de dados** e **versionamento de código**.
+Um dos projetos mais completos da minha formação prática, com atuação forte em **backend e estrutura da aplicação** — APIs, banco de dados, migrations, models, relacionamentos, controllers, validações, autenticação e regras de negócio, em repositórios separados de backend e frontend.
 
----
+`PHP` `Laravel` `MySQL` `Vue 3` `REST API`
 
-## Skills / Stack
+**[→ Ver repositório](https://github.com/AssuncaoWorkspace)**
 
-<p align="left">
-  <b>Front-end & Web</b>
-</p>
+<br>
 
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-</p>
+## Experiência
 
-<p align="left">
-  <b>Ferramentas</b>
-</p>
+**G4F** · Jovem Aprendiz, por meio do Senac
 
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</p>
+Experiência profissional em ambiente corporativo de tecnologia, conciliando trabalho, formação acadêmica e desenvolvimento técnico — evoluindo em trabalho em equipe, organização, processos, comunicação e resolução de problemas reais de software.
 
-<p align="left">
-  <b>Banco de Dados</b>
-</p>
+<br>
 
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</p>
+## Formação
 
----
+**Senac** · Análise e Desenvolvimento de Sistemas
 
-## Objetivo
+Formação voltada para desenvolvimento de software, lógica de programação, banco de dados, engenharia de software e construção de sistemas — complementada principalmente por **projetos práticos e desenvolvimento contínuo**.
 
-Construir uma base sólida em desenvolvimento de software, contribuir com projetos reais e crescer continuamente na área de tecnologia.
+<br>
 
----
+## Em desenvolvimento agora
 
-## Projetos
+- Arquitetura de APIs e boas práticas de design de sistemas
+- PHP, Laravel e ecossistema React/Supabase
+- Autenticação, segurança e proteção de dados sensíveis
+- Testes automatizados
+- Deploy, CI/CD e infraestrutura
+- Desenvolvimento e validação de produtos SaaS
 
-- **Em breve:** portfólio com projetos demonstrando evolução (Web + Banco de Dados + Git/GitHub)
-- **Em breve:** estudos e mini-projetos com boas práticas
+<br>
 
----
-
-## GitHub (stats)
+## GitHub
 
 <div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AssuncaoWorkspace&show_icons=true&theme=transparent"
-  />
-  <img
-    height="170"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AssuncaoWorkspace&theme=transparent"
-  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AssuncaoWorkspace&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&icon_color=FF5A36&title_color=FF5A36" />
+<img height="170" src="https://streak-stats.demolab.com?user=AssuncaoWorkspace&theme=transparent&hide_border=true&ring=FF5A36&fire=FF5A36&currStreakLabel=FF5A36" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AssuncaoWorkspace&theme=github-compact&hide_border=true&area=true&color=FF5A36&line=FF5A36&custom_title=Contribution%20Graph" />
+
 </div>
 
----
+<br>
 
-## Contato
+## Além do código
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-assunção-8842953b3" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:assuncaoworkspace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+Interesse não apenas em desenvolvimento, mas também em **produto e negócio** — explorando `SaaS` `Automação` `Produtos digitais` `Sistemas B2B`.
 
+Acredito que um bom desenvolvedor precisa entender não apenas **como construir**, mas também **por que construir**.
+
+**Aberto a oportunidades e colaborações em backend, sistemas e produtos SaaS.**
+
+<br>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.;One+project+at+a+time." alt="Footer animation" />
+
+<sub>Gabriel Assunção · Brasília, DF · Brasil</sub>
+
+</div>
