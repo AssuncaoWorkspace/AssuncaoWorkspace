@@ -98,8 +98,6 @@ Mais do que um exercício técnico, o MecSync é onde experimento o ciclo comple
 
 `React` `Supabase` `SaaS` `Produto`
 
-**[→ Ver repositório](https://github.com/AssuncaoWorkspace)**
-
 ---
 
 ### SDA — Sistema de Direitos Autorais
@@ -109,8 +107,6 @@ Sistema desenvolvido no contexto do Senac para gestão de direitos autorais e do
 Um dos projetos mais completos da minha formação prática, com atuação forte em **backend e estrutura da aplicação** — APIs, banco de dados, migrations, models, relacionamentos, controllers, validações, autenticação e regras de negócio, em repositórios separados de backend e frontend.
 
 `PHP` `Laravel` `MySQL` `Vue 3` `REST API`
-
-**[→ Ver repositório](https://github.com/AssuncaoWorkspace)**
 
 <br>
 
