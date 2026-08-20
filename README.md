@@ -35,7 +35,7 @@ Rather than focusing on a single technology, I aim to understand **how the diffe
 | **Systems**   | Architecture, integrations, processes, and application structure         |
 | **Product**   | SaaS, B2B systems, real-world problems, and functional solutions         |
 
-Frontend development is part of my technical foundation and I use it when building complete applications, but my strongest interest is in the **backend, data, APIs, and business logic** behind the interface.
+Frontend development is part of my technical foundation and I use it when building complete applications, but my strongest interest is in the **backend, data, APIs, and business logic**.
 
 <br>
 
@@ -98,7 +98,7 @@ Frontend development is part of my technical foundation and I use it when buildi
 
 ## Featured Projects
 
-### 🔧 MecSync — SaaS Management Platform for Automotive Workshops
+### MecSync — SaaS Management Platform for Automotive Workshops
 
 A SaaS product focused on making automotive workshop management more organized, efficient, and professional.
 
@@ -119,7 +119,7 @@ It has also been an environment for practicing **code organization, database arc
 
 ---
 
-### 📚 SDA — Copyright Management System
+### SDA — Copyright Management System
 
 A system developed in the context of **Senac** for managing copyright and the administrative processes related to publishing and intellectual property.
 
