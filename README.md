@@ -4,9 +4,9 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-AssuncaoWorkspace-0D1117?style=for-the-badge&logo=github&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Assunção-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
-[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-AssuncaoWorkspace-0D1117?style=for-the-badge\&logo=github\&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Assunção-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
+[![Email](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge\&logo=gmail\&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=AssuncaoWorkspace&style=flat-square&color=0D1117&label=PROFILE+VIEWS" />
 
@@ -16,24 +16,26 @@
 
 ## `whoami`
 
-Computer Science and Systems Development student focused on **backend development, APIs, databases, and system architecture**.
+Systems Development student at **Senac**, currently working as a **Young Apprentice at G4F**, where I am gaining professional experience in a corporate technology environment while continuously developing my technical skills.
 
-I currently work as a **Young Apprentice at G4F**, through **Senac**, while gaining real-world professional experience and continuously developing my technical skills alongside my academic education.
+My main focus is **backend development, REST APIs, databases, business logic, and system architecture**.
 
-My journey is built through hands-on experience — real systems, APIs, databases, business rules, and problems that need to be solved in practice, not just studied. My goal is not to learn technologies in isolation, but to understand **how the different parts of a system connect** and **how to turn a real need into a functional solution**.
+I enjoy building software that solves real problems — from designing databases and structuring APIs to implementing business rules, authentication, validation, and integrations.
+
+Rather than focusing on a single technology, I aim to understand **how the different layers of a system connect** and how technical decisions impact the product as a whole.
 
 <br>
 
 ## Areas of Focus
 
-| Area | What it involves |
-|---|---|
-| **Backend** | REST APIs, business logic, authentication, and security |
-| **Database** | Data modeling, SQL, relationships, and data integrity |
-| **Systems** | Architecture, integrations, and process design |
-| **Product** | SaaS, real-world business problems, and functional solutions |
+| Area          | Focus                                                                    |
+| ------------- | ------------------------------------------------------------------------ |
+| **Backend**   | REST APIs, business logic, authentication, validation, and security      |
+| **Databases** | Data modeling, SQL, relationships, PostgreSQL, MySQL, and data integrity |
+| **Systems**   | Architecture, integrations, processes, and application structure         |
+| **Product**   | SaaS, B2B systems, real-world problems, and functional solutions         |
 
-Frontend development is part of my technical foundation and the projects I build, but my strongest technical interest lies in **data, APIs, logic, and business rules**.
+Frontend development is part of my technical foundation and I use it when building complete applications, but my strongest interest is in the **backend, data, APIs, and business logic** behind the interface.
 
 <br>
 
@@ -41,6 +43,7 @@ Frontend development is part of my technical foundation and the projects I build
 
 <table>
 <tr>
+
 <td valign="top" width="25%">
 
 **Backend**
@@ -51,16 +54,19 @@ Frontend development is part of my technical foundation and the projects I build
 `PHP` `Laravel` `REST APIs`
 
 </td>
+
 <td valign="top" width="25%">
 
-**Database**
+**Database & Backend Services**
 
 <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" />
 
-`MySQL` `PostgreSQL` `SQL`
+`MySQL` `PostgreSQL` `Supabase` `SQL`
 
 </td>
+
 <td valign="top" width="25%">
 
 **Frontend**
@@ -72,6 +78,7 @@ Frontend development is part of my technical foundation and the projects I build
 `JavaScript` `React` `Vue.js`
 
 </td>
+
 <td valign="top" width="25%">
 
 **Tools & Infrastructure**
@@ -83,6 +90,7 @@ Frontend development is part of my technical foundation and the projects I build
 `Git` `GitHub` `Docker`
 
 </td>
+
 </tr>
 </table>
 
@@ -90,21 +98,63 @@ Frontend development is part of my technical foundation and the projects I build
 
 ## Featured Projects
 
-### MecSync — SaaS Management Platform for Automotive Workshops
+### 🔧 MecSync — SaaS Management Platform for Automotive Workshops
 
-A product built to make automotive workshop management more organized and professional, covering customers, vehicles, work orders, scheduling, business indicators, and administration.
+A SaaS product focused on making automotive workshop management more organized, efficient, and professional.
 
-More than just a technical project, MecSync is where I explore the complete lifecycle of a **digital product**: identifying problems, defining features, designing architecture, prospecting potential customers, and continuously improving the system — including code auditing, component organization, and strengthening security best practices.
+The platform covers key operational processes such as:
 
-`React` `Supabase` `SaaS` `Product`
+* Customer management
+* Vehicle management
+* Work orders
+* Scheduling
+* Business indicators
+* Administrative management
+
+MecSync is more than a technical project. It is an opportunity to experience the complete lifecycle of a **digital product** — from identifying a real business problem and defining features to designing the architecture, developing the system, validating the product, and continuously improving the codebase.
+
+It has also been an environment for practicing **code organization, database architecture, security, and product-oriented development**.
+
+`React` `Supabase` `SaaS` `Product Development`
 
 ---
 
-### SDA — Copyright Management System
+### 📚 SDA — Copyright Management System
 
-A system developed in the context of Senac for managing copyright and related administrative processes, including authors, works, contracts, sales, royalties, payments, retained balances, settlements, documents, users and permissions, notifications, and system logs.
+A system developed in the context of **Senac** for managing copyright and the administrative processes related to publishing and intellectual property.
 
-One of the most complete projects in my practical development journey, with a strong focus on **backend and application structure** — APIs, database design, migrations, models, relationships, controllers, validation, authentication, and business rules, with separate backend and frontend repositories.
+The system covers areas such as:
+
+* Authors
+* Works
+* Contracts
+* Sales
+* Royalties
+* Payments
+* Retained balances
+* Settlements
+* Documents
+* Users & permissions
+* Notifications
+* System logs
+
+One of the most complete projects in my practical development journey, with a strong focus on **backend architecture and application structure**.
+
+My work involves areas such as:
+
+* REST API development
+* Database modeling
+* Laravel migrations
+* Eloquent models
+* Relationships
+* Controllers
+* Form validation
+* Authentication
+* Business rules
+* API organization
+* Data integrity
+
+The project is structured with separate **backend and frontend repositories**, providing practical experience with the integration between different layers of a real-world application.
 
 `PHP` `Laravel` `MySQL` `Vue 3` `REST API`
 
@@ -112,50 +162,98 @@ One of the most complete projects in my practical development journey, with a st
 
 ## Experience
 
-**G4F** · Young Apprentice, through Senac
+### G4F Soluções Corporativas
 
-Professional experience in a corporate technology environment, combining work, academic education, and continuous technical development — strengthening my skills in teamwork, organization, processes, communication, and solving real-world software problems.
+**Young Apprentice · through Senac**
+
+Professional experience in a corporate technology environment, combining academic education with hands-on development and exposure to real-world software processes.
+
+This experience has helped me develop not only technically, but also in:
+
+* Team collaboration
+* Communication
+* Organization
+* Problem solving
+* Software development processes
+* Professional responsibility
 
 <br>
 
 ## Education
 
-**Senac** · Systems Analysis and Development
+### Senac
 
-Academic training focused on software development, programming logic, databases, software engineering, and system development — complemented primarily by **hands-on projects and continuous development**.
+**Systems Analysis and Development (ADS)**
+
+Academic training focused on:
+
+* Software development
+* Programming logic
+* Databases
+* Software engineering
+* System analysis
+* Application development
+
+My academic journey is complemented by **hands-on projects, professional experience, and continuous self-directed learning**.
 
 <br>
 
-## Currently Developing
+## Currently Exploring
 
-- API architecture and system design best practices
-- PHP, Laravel, and the React/Supabase ecosystem
-- Authentication, security, and protection of sensitive data
-- Automated testing
-- Deployment, CI/CD, and infrastructure
-- Development and validation of SaaS products
+* API architecture and system design
+* PHP & Laravel
+* React & Supabase
+* PostgreSQL & SQL
+* Authentication and authorization
+* Application security
+* Data validation and integrity
+* Automated testing
+* Deployment and CI/CD
+* Infrastructure
+* SaaS product development
+* B2B software solutions
 
 <br>
 
 ## Beyond Code
 
-My interests go beyond software development and also include **product and business** — exploring `SaaS` `Automation` `Digital Products` `B2B Systems`.
+My interests extend beyond software development into **product and business**.
 
-I believe a good developer needs to understand not only **how to build**, but also **why something should be built**.
+I enjoy exploring ideas around:
 
-**Open to opportunities and collaborations in backend development, systems, and SaaS products.**
+`SaaS` `Automation` `Digital Products` `B2B Systems` `Technology`
+
+I believe that a good developer should understand not only **how to build something**, but also **why it should be built**.
+
+Technology is most valuable when it solves a real problem.
+
+<br>
+
+## What I'm Looking For
+
+I am interested in opportunities where I can continue developing my skills in:
+
+**Backend Development · APIs · Databases · Software Systems · SaaS**
+
+I am particularly interested in environments where I can work with experienced developers, contribute to real products, learn from challenging problems, and continuously improve as a software developer.
 
 <br>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
+### Let's build something useful.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge\&logo=linkedin\&logoColor=FF5A36)](https://www.linkedin.com/in/gabriel-assunção-8842953b3)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge\&logo=gmail\&logoColor=FF5A36)](mailto:assuncaoworkspace@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=FF5A36)](https://github.com/AssuncaoWorkspace)
 
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1000&color=808080&center=true&vCenter=true&width=500&lines=Build.+Learn.+Improve.;One+project+at+a+time." alt="Footer animation" />
+
+<br>
 
 <sub>Gabriel Assunção · Brasília, DF · Brazil</sub>
 
